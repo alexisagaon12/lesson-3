@@ -14,5 +14,5 @@ for fruits in mgaFruits:
          print()
     break
 elif fruits == "apple": 
-    print "HAPPY EATING"
+    print (f"HAPPY EATING")
 
